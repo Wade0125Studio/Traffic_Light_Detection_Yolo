@@ -1,0 +1,4 @@
+crosswalk 170 183 203 214
+trafficlight 87 168 114 217
+trafficlight 207 168 225 221
+crosswalk 142 232 149 239

@@ -1,0 +1,3 @@
+speedlimit 111 142 177 210
+crosswalk 158 313 216 383
+trafficlight 104 300 146 398

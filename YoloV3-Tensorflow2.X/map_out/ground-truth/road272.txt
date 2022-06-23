@@ -1,0 +1,4 @@
+stop 123 179 159 216
+trafficlight 206 261 251 325
+crosswalk 235 258 265 295
+crosswalk 228 344 246 365

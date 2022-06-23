@@ -1,0 +1,14 @@
+trafficlight 0.8201 190 84 208 122
+trafficlight 0.3070 93 48 118 99
+trafficlight 0.0103 197 89 210 118
+trafficlight 0.0068 194 90 213 126
+trafficlight 0.0047 187 87 200 119
+trafficlight 0.0039 176 89 211 129
+trafficlight 0.0025 183 91 203 125
+trafficlight 0.0018 94 53 108 91
+trafficlight 0.0014 185 212 195 225
+trafficlight 0.0010 189 77 219 119
+speedlimit 0.0039 93 48 118 99
+crosswalk 0.0185 100 241 227 398
+crosswalk 0.0022 69 142 256 439
+crosswalk 0.0010 48 206 55 213

@@ -1,0 +1,4 @@
+trafficlight 0.0027 9 199 55 245
+stop 0.0036 9 199 55 245
+speedlimit 0.9957 9 199 55 245
+crosswalk 0.0024 -1 198 55 247

@@ -1,0 +1,5 @@
+trafficlight 0.0084 160 264 179 299
+crosswalk 0.4272 19 56 163 205
+crosswalk 0.0395 63 66 148 188
+crosswalk 0.0231 25 71 160 141
+crosswalk 0.0113 28 68 113 188

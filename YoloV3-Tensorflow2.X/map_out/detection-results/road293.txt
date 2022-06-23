@@ -1,0 +1,5 @@
+trafficlight 0.0030 17 47 96 228
+trafficlight 0.0016 41 52 133 223
+trafficlight 0.0010 40 104 131 307
+speedlimit 0.9959 96 246 147 304
+speedlimit 0.0030 76 243 159 314

@@ -1,0 +1,17 @@
+trafficlight 0.0204 77 173 156 348
+trafficlight 0.0115 43 201 129 382
+trafficlight 0.0096 103 206 192 375
+trafficlight 0.0080 72 230 162 414
+trafficlight 0.0067 15 172 97 350
+trafficlight 0.0046 86 204 168 303
+trafficlight 0.0031 15 231 97 414
+trafficlight 0.0023 46 143 127 317
+trafficlight 0.0022 98 20 156 90
+trafficlight 0.0018 -12 171 66 351
+trafficlight 0.0016 109 214 147 291
+trafficlight 0.0013 60 124 240 460
+trafficlight 0.0011 7 130 171 455
+crosswalk 0.9149 149 176 256 280
+crosswalk 0.0032 144 129 271 323
+crosswalk 0.0017 87 157 231 296
+crosswalk 0.0016 194 166 264 284

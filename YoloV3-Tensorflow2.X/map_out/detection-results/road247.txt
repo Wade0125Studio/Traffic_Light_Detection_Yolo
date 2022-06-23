@@ -1,0 +1,13 @@
+trafficlight 0.0039 0 255 4 262
+trafficlight 0.0015 1 255 7 261
+stop 0.0022 0 255 4 262
+speedlimit 0.9991 138 217 156 234
+speedlimit 0.9990 140 244 157 261
+speedlimit 0.0708 0 255 4 262
+speedlimit 0.0092 187 245 193 250
+speedlimit 0.0030 1 255 7 261
+speedlimit 0.0016 130 216 164 238
+speedlimit 0.0015 188 242 194 247
+speedlimit 0.0011 0 257 4 267
+crosswalk 0.0058 89 263 95 270
+crosswalk 0.0016 0 255 4 262
