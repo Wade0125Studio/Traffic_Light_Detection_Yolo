@@ -1,8 +1,8 @@
-# Mask Object Detection Yolo
+# Traffic Light Detection Yolo
  
-Mask Object Detection Dataset URL:https://mega.nz/file/cihylKRJ#3JF8wHoUIDvlwmVP4cnpYzU7YymqOE5XcO1nwRmeiJM
+Traffic Light Detection Dataset URL:https://mega.nz/file/Y6gCHLZI#-T6l9Lojn90q_Gta3U_oa1uXCjr2cUwudgc-s0do5W8
 -------------
-Mask Object Detection  model weights URL:https://mega.nz/file/wq4lnbAS#TtPNHQiSu5yu204_OrKvr9EVe_UmixB0zc52fMy9g7Y
+Traffic Light Detection model weights URL:https://mega.nz/file/JnQA2RSL#auCAwxGmv13ulLRyIxqpjntTyUMyf5XPf5kbsR-ydkA
 -------------
 
 
